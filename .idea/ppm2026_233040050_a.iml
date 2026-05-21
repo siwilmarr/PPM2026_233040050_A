@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_1/kartu_profile/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_1/kartu_profile/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_1/kartu_profile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_1/latihan_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_1/latihan_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_1/latihan_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_2/profile_page/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_2/profile_page/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_2/profile_page/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
